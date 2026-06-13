@@ -897,3 +897,9 @@ var textStrings_IT = {
 	"MarshallMcLuhan": "Marshall McLuhan",
 	"misatrributed": "(attribuito erroneamente)",
 };
+// === SELEZIONE LINGUA (IMPORTANTE!) ===
+// Questa riga fa sì che il gioco usi l'italiano
+var textStrings = textStrings_IT;
+
+// Per tornare all'inglese, cambia in:
+// var textStrings = textStrings_EN;
