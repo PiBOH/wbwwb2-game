@@ -1,4 +1,7 @@
-# DEAR ASPIRING TRANSLATORS, PLEASE CHECK THE MAIN PAGE DESCRIPTION FIRST TO SEE IF YOUR TRANSLATION ALREADY EXISTS: https://ncase.itch.io/wbwwb (also check the Issues to see if your translation is already being worked on - collaborate with them if they're stuck!)
+Gioco originale https://ncase.itch.io/wbwwb
+questo repo è stato creato solo per esportare il gioco in [github pages](https://piboh.github.io/wbwwb2-game/)
+
+<!--- # DEAR ASPIRING TRANSLATORS, PLEASE CHECK THE MAIN PAGE DESCRIPTION FIRST TO SEE IF YOUR TRANSLATION ALREADY EXISTS: https://ncase.itch.io/wbwwb (also check the Issues to see if your translation is already being worked on - collaborate with them if they're stuck!)
 
 *a game about news cycles, vicious cycles, infinite cycles*
 
@@ -34,3 +37,4 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 
 **ART:**    
 - For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
+--->
