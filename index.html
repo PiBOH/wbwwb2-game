@@ -1,5 +1,7 @@
-﻿<html>
+﻿<!DOCTYPE html>
+<html>
 	<head>
+		<meta charset="UTF-8">
 		<link rel="stylesheet" href="css/game.css">
 	</head>
 	<body>
@@ -15,7 +17,7 @@
 			</div>
 		</div>
 		<div class="overlay" id="paused">
-			<div>in pausa</div>
+			<div>PAUSA</div>
 			<div>
 				clicca ovunque per riprendere<br>
 				clicca qui per tornare indietro!
@@ -93,7 +95,7 @@
 Game.stats = false;
 window.onload = function(){
 	try{
-		Game.init("IT");
+		Game.init();   // ← IMPORTANTE: niente parametri!
 	}catch(e){
 		document.getElementById("warning").style.display = "block";
 	}
