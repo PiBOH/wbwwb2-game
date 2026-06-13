@@ -822,3 +822,78 @@ var textStrings_TR = {
 	// (quote0004.png)
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
+// Italian translation
+var textStrings_IT = {
+	// Act 1
+	"niceHat": "OOOH CHE BEL CAPPELLO!",
+	"outtaHere": "sì, levati di torno",
+	"getARoom": "CHE SCHIFO, ANDATE IN UNA STANZA",
+	"notCoolAnymore": "ok, i cappelli non sono più fighi",
+	"tvOnTv": "UN TELEVISORE... IN TV!",
+	"cricky": "PICCOLO GRILLO <3",
+	"tooManyCrickets": "ok, sono troppi grilli",
+	"normalPeep": "solo una persona normale",
+	"normalPeeps": "solo alcune persone normali",
+	"wowNothing": "WOW, NON È NIENTE",
+
+	// Act 2
+	"crazySquareAttacks": "QUADRATO PAZZO ATTACCA",
+	"justMissed": "oooooh l'ho mancato",
+	"somethingInteresting": "(devi beccarli a fare *qualcosa* di interessante...)",
+	"whoIsScreaming": "(devi beccare *chi* sta urlando contro di loro)",
+	"circleFearsSquares": "I CERCHI HANNO PAURA DEI QUADRATI",
+	"whoScaresThem": "(devi anche beccare *da chi* hanno paura)",
+	"areTheyScared": "(devi beccarli *mentre* hanno paura di un quadrato)",
+	"squaresSnubCircles": "I QUADRATI SNOBBANO I CERCHI",
+	"areTheySnubbed": "(devi beccarli *mentre* snobbano un cerchio)",
+	"everyoneHates": "OGNIUNO ODIA OGNIUNO!!1!",
+	"almostEveryoneHates": "QUASI OGNIUNO ODIA OGNIUNO...",
+	"squaresHateCircles": "I QUADRATI ODIANO I CERCHI",
+	"circlesHateSquares": "I CERCHI ODIANO I QUADRATI",
+	"areTheyYelling": "(devi beccarli *mentre* urlano contro gli altri)",
+	"nerdsNow": "cosa stanno facendo questi nerd ora?",
+	"schockedPeep": "perché questa persona è scioccata?",
+	"whatever": "qualunque cosa",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "i cappelli non sono più fighi, non l'hai sentito?",
+	"beScared": "ABBI PAURA. ESSERE ARRABBIATO.",
+
+	// MANIFESTO
+	"manifesto": [
+		"chi accende la TV per vedere *come vanno d'accordo le persone*?",
+		"la pace è noiosa. la violenza diventa virale.",
+		"e ogni storia ha bisogno di un conflitto, quindi...",
+		"DÀ AL PUBBLICO CIÒ CHE VUOLE."
+	],
+
+	// Preload screen
+	"playingTime": "tempo di gioco: 5 minuti",
+	"warning": "avviso: il seguente programma\ncontiene scene di snobismo,\ngrossolanità e omicidio di massa.\ndiscrezione dello spettatore consigliata.",
+
+	// Camera Instructions
+	"pointAndClick": "PUNTA E CLICCA",
+
+	// (chyron3.png)
+	"chyronNothing": "WOW, *NON È NIENTE*",
+
+	// Credits
+	"createdBy": "creato da",
+	"NickyCase": "Nicky Case",
+	"manyThanks": "molte grazie ai miei playtester:",
+	"patreonSupporters": "e ai miei sostenitori su Patreon:",
+	"lastButNotLeast": "e infine, ma non meno importante,",
+	"thankYouForPlaying": "GRAZIE a TE per aver giocato!",
+	"playButton": "GIOCA",
+	"otherWorkButton": "vedi i miei altri lavori",
+	"buyCoffeeButton": "offrimi un caffè",
+	"replayButton": "riprova questo casino",
+	"logoWBWWB": "CONDIVIDI IL DOLORE:",
+	"endOfPrototype": "FINE DEL PROTOTIPO",
+	"toBeContinued": "(continua!)",
+	"WBWWB": "Diventiamo ciò che vediamo.",
+	"WSOTATOTSU": "Plasmiamo i nostri strumenti e poi i nostri strumenti plasmano noi.",
+	"MarshallMcLuhan": "Marshall McLuhan",
+	"misatrributed": "(attribuito erroneamente)",
+};

@@ -6,19 +6,19 @@
 		<div id="stage"></div>
 		<div id="modal_shade"></div>
 		<div class="overlay" id="warning">
-			<div>Ops!</div>
-			<div>
-				Il tuo browser non supporta WebGL.<br>
-				Prova con un browser o un computer diverso?<br>
+			<div dir="rtl">ای بابا!</div>
+			<div dir="rtl">
+			your browser doesn't support webgl.<br>
+			try a different browser or computer?<br>
 				<br>
-				Il tuo browser non è supportato. Prova con un altro browser o computer.
+				Il tuo browser è offline! Usa un altro browser o un altro computer!
 			</div>
 		</div>
 		<div class="overlay" id="paused">
-			<div>in pausa</div>
-			<div>
-				clicca ovunque per riprendere<br>
-				clicca qui per tornare indietro!
+			<div>paused</div>
+			<div dir="rtl">
+			click anywhere to resume<br>
+				Clicca qui per tornare indietro!
 			</div>
 		</div>
 	</body>
@@ -93,11 +93,12 @@
 Game.stats = false;
 window.onload = function(){
 	try{
-		Game.init("IT");
+		Game.init();
+		//Game.init("Game");
 	}catch(e){
 		document.getElementById("warning").style.display = "block";
 	}
 };
-window.SHARE_TEXT = 'Ho appena giocato a un gioco super meta!';
+window.SHARE_TEXT = 'همین الان یه بازی خیلی خفن رو بازی کردم'
 window.SHARE_URL = "";
 </script>
