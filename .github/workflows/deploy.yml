@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main"]        # ← importante: il repo originale usa "master", non "main", qua è stato addattato per funzionare con main
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'                    # deploya tutto il contenuto della root
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
