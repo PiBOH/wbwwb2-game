@@ -858,7 +858,7 @@ var textStrings_IT = {
 	// Act 3
 	"ellipsis": ". . .",
 	"coolNoMore": "i cappelli non sono più fighi, non l'hai sentito?",
-	"beScared": "ABBI PAURA. ESSERE ARRABBIATO.",
+	"beScared": "ABBI PAURA. SII ARRABBIATO.",
 
 	// MANIFESTO
 	"manifesto": [
